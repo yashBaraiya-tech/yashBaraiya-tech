@@ -41,22 +41,21 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & State Management
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,zustand" />
 </p>
 
-### 🛠 Tools
+### 🛢 Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,cloudinary" />
 </p>
 
-### 📋 Detailed Technical Skills
-* **Programming & Scripting Languages:** C, Java, HTML5, CSS3, JavaScript (ES6+)
-* **Libraries & Frameworks:** React.js, Node.js, Express.js, Tailwind CSS, DaisyUI, Zustand, Socket.IO
-* **Databases & Cloud Platforms:** MongoDB, MySQL, Cloudinary
-* **Tools, Security & Auth:** Git, GitHub, Postman, JWT (JSON Web Tokens)
-* **Core Computer Science Concepts:** Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC), RESTful API Development, Authentication & Authorization, Database Management Systems (DBMS)
+### 🛠 Tools & Security
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,regex" />
+</p>
+
 
 ---
 
