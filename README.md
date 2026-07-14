@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Yash%20Baraiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=Yash%20Baraiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20MERN%20Stack%20Developer%20&descAlignY=58&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality+🚀" />
 
