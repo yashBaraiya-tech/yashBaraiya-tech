@@ -29,37 +29,34 @@
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Tech Stack & Skills
 
 ### 💻 Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=js,java,c" />
 </p>
 
 ### 🎨 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
-
+### ⚙️ Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🛢 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🛠 Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
+
+### 📋 Detailed Technical Skills
+* **Programming & Scripting Languages:** C, Java, HTML5, CSS3, JavaScript (ES6+)
+* **Libraries & Frameworks:** React.js, Node.js, Express.js, Tailwind CSS, DaisyUI, Zustand, Socket.IO
+* **Databases & Cloud Platforms:** MongoDB, MySQL, Cloudinary
+* **Tools, Security & Auth:** Git, GitHub, Postman, JWT (JSON Web Tokens)
+* **Core Computer Science Concepts:** Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC), RESTful API Development, Authentication & Authorization, Database Management Systems (DBMS)
 
 ---
 
