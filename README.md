@@ -43,12 +43,14 @@
 
 ### ⚙️ Backend & State Management
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,zustand" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🛢 Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,cloudinary" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" />
 </p>
 
 ### 🛠 Tools & Security
